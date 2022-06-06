@@ -19,7 +19,6 @@ duplikātu pārbaude
 
 ![image](https://user-images.githubusercontent.com/106994489/172234580-4070f3b5-c574-490f-a422-4562bce02c56.png)
 
-saglabā bildi, kad izsauc komandu
 
 def drawLine un drawPoint kods, lai lietotājs var iezīmēt manuāli video pārkāpuma  līniju un punktu luksofora gaismas izsekošanai.
 ![image](https://user-images.githubusercontent.com/106994489/172235015-0c90cdce-f1af-42fb-900c-760cfbc288f7.png)
@@ -40,6 +39,8 @@ pārbauda luksofora krāsu
 
 
 piešķir identifikāciju objektiekm un starp kadriem nosaka vai tas objekts vēl ir ekrānā un ja nav tad izdzēš
+
+![image](https://user-images.githubusercontent.com/106994489/172239133-84804fb4-0b85-4f48-bf83-c17984036bbd.png)
 
 skaita un saglabā pārkāpumus
 
